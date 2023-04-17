@@ -1,2 +1,2 @@
 # Pytorch
-Learning Pytorch via examples
+Learn Pytorch via examples
